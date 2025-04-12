@@ -32,7 +32,12 @@ Synthetic dataset structured with:
 3. Gijsbers, P., LeDell, E., Poirier, S., Thomas, J., Bischl, B., & Vanschoren, J. (2019). An open source AutoML benchmark. *arXiv preprint arXiv:1907.00909*. https://arxiv.org/abs/1907.00909
 
 
+## 🔖 Version Info
 
-## ✅ Requirements
-```bash
-pip install pycaret shap imbalanced-learn matplotlib seaborn pandas
+- Python: 3.11
+- PyCaret: 3.0.4
+- pandas: 2.2.2
+- sklearn: 1.3.2
+- seaborn: 0.12.2
+- matplotlib: 3.7.5
+
