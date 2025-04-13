@@ -1,29 +1,29 @@
-# 💳 Credit Card Fraud Detection using AutoML
+# Credit Card Fraud Detection using AutoML
 
 This project uses AutoML (PyCaret + SMOTE) to detect fraudulent credit card transactions. It focuses on precision-recall tradeoffs, explainability with SHAP, and conceptual extension toward AGI-powered fraud detection.
 
-## 📌 Features
+## Features
 - AutoML-based pipeline using PyCaret
 - SMOTE applied for handling class imbalance
 - Precision/Recall evaluation, PR-AUC, and calibration curve
 - SHAP explainability plot for model transparency
 - Conceptual enhancement using Artificial General Intelligence (AGI)
 
-## 📊 Dataset
+## Dataset
 Synthetic dataset structured with:
 - TransactionID, Date, Amount, MerchantID
 - TransactionType, Location, IsFraud (target)
 
-## 🚀 Run on Google Colab
+## Run on Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T_4tjT1cp_NnUQJ4seTru_vqjegvPNtn?authuser=0#scrollTo=QYbNh0jDT-N5)
 
-## 👥 Team Members
+## Team Members
 - Tejaskumar Sanjaykumar Patel (200575242)
 - Chintan Chauhan (200564227)
 - Priyank Bhaveshbhai Siddhapura (200544911)
 - John Hanok (200573253)
 
-## 📚 References (APA Format)
+## References (APA Format)
 
 1. Carcillo, F., Le Borgne, Y.-A., Caelen, O., Bontempi, G., & Mazzer, Y. (2019). Scarff: A scalable framework for streaming credit card fraud detection with Spark. *Information Fusion, 41*, 182–194. https://doi.org/10.1016/j.inffus.2017.09.005
 
@@ -32,7 +32,7 @@ Synthetic dataset structured with:
 3. Gijsbers, P., LeDell, E., Poirier, S., Thomas, J., Bischl, B., & Vanschoren, J. (2019). An open source AutoML benchmark. *arXiv preprint arXiv:1907.00909*. https://arxiv.org/abs/1907.00909
 
 
-## 🔖 Version Info
+## Version Info
 
 - Python: 3.11
 - PyCaret: 3.0.4
