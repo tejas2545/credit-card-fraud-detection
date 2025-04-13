@@ -15,7 +15,7 @@ Synthetic dataset structured with:
 - TransactionType, Location, IsFraud (target)
 
 ## Run on Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T_4tjT1cp_NnUQJ4seTru_vqjegvPNtn?authuser=0#scrollTo=QYbNh0jDT-N5)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QIp0fQ8xDp47BjMHLUWK4mbzW3QLuVpl)
 
 ## Team Members
 - Tejaskumar Sanjaykumar Patel (200575242)
